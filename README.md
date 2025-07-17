@@ -29,5 +29,5 @@ juniortrainersheet/
 <br>│
 <br>├── A/ # Beginner level problems
 <br>├── B/ # Medium difficulty problems
-<br>├── README.md # Este documento
+<br>├── README.md # This document
 <br>└── .gitignore
