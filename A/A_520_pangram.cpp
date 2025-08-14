@@ -11,7 +11,7 @@ int main() {
     }
     for(int i=0; i< 26;i++) r[i] = '0';
     for(int i=0; i<n;i++) r[toupper(s[i]) - 65] ='1';
-    for(int i=0; i<n;i++){
+    for(int i=0; i<26;i++){
         if(r[i] == '0'){
             cout << "NO";
             return 0;
