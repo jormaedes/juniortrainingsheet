@@ -1,4 +1,4 @@
-# 🧠 juniortrainersheet
+# 🧠 juniortrainingsheet
 
 Repository dedicated to the practice of **programming logic** through solved exercises from the **Codeforces** platform, focusing on the development of algorithmic reasoning using **C++**.
 
